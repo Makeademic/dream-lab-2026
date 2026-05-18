@@ -68,6 +68,27 @@ header {
 #Resources {background-color: #ff5029;}
 
 
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: #bbb;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ddd;
+}
+
+/* selected link */
+a:active {
+  color: #ccc;
+}
+
+
 
 /*HOME CSS content*/
 #map { height: 600px; width: 800px; }
