@@ -164,3 +164,8 @@ Critical Making in Digital Humanities
 By Anastasia Salter
 
 [https://anastasiasalter.net/CriticalMaking2026/](https://anastasiasalter.net/CriticalMaking2026/)
+
+# Acknowledgements
+
+Huge thanks to all of the wonderful people who helped make this Dream Lab course a success!
+*Erin Bailey, Taylor Caputo, Kadin Henningsen, Pamela Horn, Tex Kang, Christine Kemp, Jessica Peterson, Dot Porter, Kathryn Reuter, Stewart Varner*
