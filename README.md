@@ -89,7 +89,7 @@ This hands-on course offers an introduction to critical making (thinking through
 # Further Reading
 **Blog Posts**
 
-*[Anemoia, AI, and Skeuomorphism: The Material Turn in Digital Humanities]((https://ryancordell.org/research/anemoia))* by Ryan Cordell
+*[Anemoia, AI, and Skeuomorphism: The Material Turn in Digital Humanities](https://ryancordell.org/research/anemoia)* by Ryan Cordell
 
 *[What is #DHMakes?](https://scholarslab.lib.virginia.edu/blog/what-is-dhmakes-hashtag//)* by Amanda Wyatt Visconti, Quinn Dombrowski, and Claudia Berger
 
