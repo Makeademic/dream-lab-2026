@@ -12,7 +12,7 @@ This hands-on course offers an introduction to critical making (thinking through
 **Highly Recommended**
 1. Laptop
 2. USB adapter
-3. Vector software ([Adobe Illustrator[(https://www.adobe.com/products/illustrator/campaign/pricing.html) or [Inkscape](https://inkscape.org/release/inkscape-1.4.4/))
+3. Vector software ([Adobe Illustrator](https://www.adobe.com/products/illustrator/campaign/pricing.html) or [Inkscape](https://inkscape.org/release/inkscape-1.4.4/))
 
 **Suggested**
 1. Comfortable walking shoes
