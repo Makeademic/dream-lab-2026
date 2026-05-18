@@ -1,6 +1,5 @@
 # Dream Lab 2026
-## Critical Making
-### Enchanted Things
+## Critical Making: Enchanted Things
 
 **Instructor: Dr. Emily Brooks**
 
