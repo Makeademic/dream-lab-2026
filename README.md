@@ -15,11 +15,13 @@ This hands-on course offers an introduction to critical making (thinking through
 3. Vector software ([Adobe Illustrator[(https://www.adobe.com/products/illustrator/campaign/pricing.html) or [Inkscape](https://inkscape.org/release/inkscape-1.4.4/))
 
 **Suggested**
-1. Any old t-shirts/fabric items you want to upcycle with screenprinting
-2. [GitHub account](https://github.com/signup)
-3. [CodePen account](https://codepen.io/accounts/signup/user/free)
-4. [Tinkercad account](https://www.tinkercad.com/join)
-5. [Arduino IDE](https://www.arduino.cc/en/software/)
+1. Comfortable walking shoes
+2. umbrella/raincoat
+3. Any old t-shirts/fabric items you want to upcycle with screenprinting
+4. [GitHub account](https://github.com/signup)
+5. [CodePen account](https://codepen.io/accounts/signup/user/free)
+6. [Tinkercad account](https://www.tinkercad.com/join)
+7. [Arduino IDE](https://www.arduino.cc/en/software/)
 
 **Brainstorming**
 1. Small drawing/illustration to illuminate
