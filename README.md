@@ -89,81 +89,46 @@ This hands-on course offers an introduction to critical making (thinking through
 # Further Reading
 **Blog Posts**
 
-Anemoia, AI, and Skeuomorphism: The Material Turn in Digital Humanities by Ryan Cordell
+*[Anemoia, AI, and Skeuomorphism: The Material Turn in Digital Humanities]((https://ryancordell.org/research/anemoia))* by Ryan Cordell
 
-[https://ryancordell.org/research/anemoia](https://ryancordell.org/research/anemoia) 
-
-What is #DHMakes?
-
-by Amanda Wyatt Visconti, Quinn Dombrowski, and Claudia Berger
-
-[https://scholarslab.lib.virginia.edu/blog/what-is-dhmakes-hashtag//](https://scholarslab.lib.virginia.edu/blog/what-is-dhmakes-hashtag//)  
+*[What is #DHMakes?](https://scholarslab.lib.virginia.edu/blog/what-is-dhmakes-hashtag//)* by Amanda Wyatt Visconti, Quinn Dombrowski, and Claudia Berger
 
 **Journal Article**
 
-Digital Creativity as Critical Material Thinking: The Disruptive Potential of Electronic Literature
-
-by Alex Saum-Pascual
-
-[https://electronicbookreview.com/publications/digital-creativity-as-critical-material-thinking-the-disruptive-potential-of-electronic-literature/](https://electronicbookreview.com/publications/digital-creativity-as-critical-material-thinking-the-disruptive-potential-of-electronic-literature/) 
+*[Digital Creativity as Critical Material Thinking: The Disruptive Potential of Electronic Literature]((https://electronicbookreview.com/publications/digital-creativity-as-critical-material-thinking-the-disruptive-potential-of-electronic-literature/))* by Alex Saum-Pascual
 
 **Book Chapters**
 
-The Care of Enchanted Things
-
-By Kari Kraus
-
-[https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa)
+*[The Care of Enchanted Things]((https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa)
+)* by Kari Kraus
 
 **Journal Special Issues**
 
-Crafting Encounters with Humanities Data: A dh+lib Special Issue
+*[Crafting Encounters with Humanities Data: A dh+lib Special Issue](https://dhandlib.org/category/2025-special-issue/)*
 
-[https://dhandlib.org/category/2025-special-issue/](https://dhandlib.org/category/2025-special-issue/)
+*[Making Research Tactile: Critical Making and Data Physicalization in Digital Humanities: A dh+lib Special Issue](https://dhandlib.org/category/2024-special-issue/)*
 
-Making Research Tactile: Critical Making and Data Physicalization in Digital Humanities: A dh+lib Special Issue
+*[Enculturation: Issue 29: Critical Making and Executable Kits](https://enculturation.net/29)*
 
-[https://dhandlib.org/category/2024-special-issue/](https://dhandlib.org/category/2024-special-issue/) 
-
-Enculturation: Issue 29: Critical Making and Executable Kits
-
-[https://enculturation.net/29](https://enculturation.net/29) 
-
-Visible Language: Vol. 49 No. 3 (2015): critical making: DESIGN and the DIGITAL HUMANITIES
-
-[https://journals.uc.edu/index.php/vl/issue/view/459](https://journals.uc.edu/index.php/vl/issue/view/459) 
+*[Visible Language: Vol. 49 No. 3 (2015): critical making: DESIGN and the DIGITAL HUMANITIES](https://journals.uc.edu/index.php/vl/issue/view/459)*
 
 **Edited Collections**
 
-Making Things and Drawing Boundaries: Experiments in the Digital Humanities
+*[Making Things and Drawing Boundaries: Experiments in the Digital Humanities](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)*
 
-[https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries) 
-
-[https://discovery.ucl.ac.uk/id/eprint/10166341/1/On-making-in-the-digital-humanities.pdf](https://discovery.ucl.ac.uk/id/eprint/10166341/1/On-making-in-the-digital-humanities.pdf) 
+*[On Making in the Digital Humanities](https://discovery.ucl.ac.uk/id/eprint/10166341/1/On-making-in-the-digital-humanities.pdf)*
 
 **Monographs**
 
-Critical Making in the Age of AI
-
-By Emily Johnson and Anastasia Salter
-
-[https://www.fulcrum.org/concern/monographs/zc77ss95p?locale=en](https://www.fulcrum.org/concern/monographs/zc77ss95p?locale=en)
+*[Critical Making in the Age of AI](https://www.fulcrum.org/concern/monographs/zc77ss95p?locale=en)* by Emily Johnson and Anastasia Salter
 
 **Conversations**
 
-Conversations in Critical Making
-
-By Garnet Hertz
-
-[https://journals.uvic.ca/index.php/ctheory/article/view/15123/6206](https://journals.uvic.ca/index.php/ctheory/article/view/15123/6206) 
+*[Conversations in Critical Making](https://journals.uvic.ca/index.php/ctheory/article/view/15123/6206)* by Garnet Hertz
 
 **Courses**
 
-Critical Making in Digital Humanities
-
-By Anastasia Salter
-
-[https://anastasiasalter.net/CriticalMaking2026/](https://anastasiasalter.net/CriticalMaking2026/)
+*[Critical Making in Digital Humanities](https://anastasiasalter.net/CriticalMaking2026/)* by Anastasia Salter
 
 # Acknowledgements
 
