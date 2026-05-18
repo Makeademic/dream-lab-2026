@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Dream Lab Tabs</title>
+     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+
+ <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Righteous&display=swap" rel="stylesheet"><link rel="stylesheet" href="./style.css">
+
+  </head>
+    
+  <body>
+  <header>Critical Making<br> enchanted things </header>
+
+<button class="tablink" onclick="openPage('Home', this, '#ff5029')" id="defaultOpen">Home</button>
+<button class="tablink" onclick="openPage('Tuesday', this, '#ff8dc8')">Tuesday</button>
+<button class="tablink" onclick="openPage('Wednesday', this, '#005efe')">Wednesday</button>
+<button class="tablink" onclick="openPage('Thursday', this, '#1ecccc')">Thursday</button>
+<button class="tablink" onclick="openPage('Friday', this, '#00be64')">Friday</button>
+<button class="tablink" onclick="openPage('Resources', this, '#ff5029')">Resources</button>
+
+<div id="Home" class="tabcontent">
+  <h3>Home</h3>
+<h1 id="dream-lab-2026">Dream Lab 2026</h1>
+<h2 id="critical-making-enchanted-things">Critical Making: Enchanted Things</h2>
+<p><strong>Instructor: Dr. Emily Brooks</strong></p>
+  
+   <div id="map"></div>
+  
+<h1 id="introduction">Introduction</h1>
+<p><em>“Enchanted things refers to hybrid physical-digital objects in the real world whose seemingly magical properties imbue them with the aura of enchantment.”</em> – Kari Kraus</p>
+<p>This hands-on course offers an introduction to critical making (thinking through prototyping) in digital humanities. The goal of this course is to gain practical takeaways that can be used in research and pedagogy. We will explore a variety of analog and digital technologies including but not limited to letterpress and bookmaking, 3D scanning and printing, vinyl and laser cutters, physical computing and paper circuits. At the end of the week, participants will use the technologies available to create enchanted things.</p>
+<p><strong>Highly Recommended</strong></p>
+<ol>
+<li>Laptop</li>
+<li>USB adapter</li>
+<li>Vector software ([Adobe Illustrator[(<a href="https://www.adobe.com/products/illustrator/campaign/pricing.html">https://www.adobe.com/products/illustrator/campaign/pricing.html</a>) or <a href="https://inkscape.org/release/inkscape-1.4.4/">Inkscape</a>)</li>
+</ol>
+<p><strong>Suggested</strong></p>
+<ol>
+<li>Comfortable walking shoes</li>
+<li>umbrella/raincoat</li>
+<li>Any old t-shirts/fabric items you want to upcycle with screenprinting</li>
+<li><a href="https://github.com/signup">GitHub account</a></li>
+<li><a href="https://codepen.io/accounts/signup/user/free">CodePen account</a></li>
+<li><a href="https://www.tinkercad.com/join">Tinkercad account</a></li>
+<li><a href="https://www.arduino.cc/en/software/">Arduino IDE</a></li>
+</ol>
+<p><strong>Brainstorming</strong></p>
+<ol>
+<li>Small drawing/illustration to illuminate</li>
+<li>Single word to letterpress (wood type or metal type)</li>
+<li>Simple design to create with vector/ screenprinting</li>
+</ol>
+
+  <h1 id="acknowledgements">Acknowledgements</h1>
+<p>Huge thanks to all of the wonderful people who helped make this Dream Lab course a success!</p>
+<p><em>Erin Bailey, Taylor Caputo, Kadin Henningsen, Pamela Horn, Tex Kang, Christine Kemp, Jessica Peterson, Dot Porter, Kathryn Reuter, Whitney Trettien, Stewart Varner</em></p>
+
+</div>
+
+<div id="Tuesday" class="tabcontent">
+
+  <h3>Tuesday</h3>
+<ul>
+<li>9am Check in &amp; Coffee (Van-Pelt Library 6th floor)</li>
+<li>10am Welcome </li>
+<li>10:45am – Morning Session: Introductions + Paper Circuits (Van-Pelt Library 623)</li>
+<li>Noon – Break </li>
+<li>1:30pm – Afternoon Session 1: Safety Session/Hand Draw with Taylor Caputo (Tangen Hall)</li>
+<li>3pm – Coffee Break </li>
+<li>3:30pm-5pm – Afternoon Session 2: Laser-cutting Acrylic/ Chomp Saw with Taylor Caputo (Tangen Hall)</li>
+<li>5:00pm – Opening Event with Hannah Alpert-Abrams (Van-Pelt Library 6th floor)</li>
+<li>6:30-7:30pm – Reception</li>
+</ul>
+</div>
+
+<div id="Wednesday" class="tabcontent">
+
+  <h3>Wednesday</h3>
+<ul>
+<li>9am – Coffee </li>
+<li>10am – Morning Session: Physical Computing (Van-Pelt Library 623)</li>
+<li>Noon – Break </li>
+<li>1:30pm – Afternoon Session 1: 3D scanning demo with Kathryn Reuter (Van-Pelt Library 623)</li>
+<li>3pm – Coffee Break </li>
+<li>3:30pm-5pm – Afternoon Session 2: 3D printing with Tex Kang (Education Commons)</li>
+<li>5:15-7pm Ice Cream Social</li>
+</ul>
+
+</div>
+
+<div id="Thursday" class="tabcontent">
+
+  <h3>Thursday</h3>
+<ul>
+<li>9am Coffee </li>
+<li>10am – Morning Session: Anaglyph Letterpress with Jessica Peterson (Fisher Fine Arts Library basement)</li>
+<li>Noon – Break </li>
+<li>1:30pm – Afternoon Session 1: Vinyl Cutting (Fisher Fine Arts Library basement)</li>
+<li>3pm Coffee Break </li>
+<li>3:30pm-5pm – Afternoon Session 2: Screenprinting (Fisher Fine Arts Library basement)</li>
+</ul>
+
+</div>
+
+<div id="Friday" class="tabcontent">
+
+  <h3>Friday</h3>
+<ul>
+<li>9am – Coffee </li>
+<li>10am – Morning Session (Van-Pelt Library 623)</li>
+<li>Noon – Break </li>
+<li>1:30pm – Afternoon Session (Final Project) </li>
+<li>3pm – Coffee Break </li>
+<li>3:30pm – 5pm Show and Tell/Closing</li>
+</ul>
+
+</div>
+
+<div id="Resources" class="tabcontent">
+
+  <h3>Resources</h3>
+<h1 id="further-reading">Further Reading</h1>
+<p><strong>Blog Posts</strong></p>
+<p><em><a href="https://ryancordell.org/research/anemoia">Anemoia, AI, and Skeuomorphism: The Material Turn in Digital Humanities</a></em> by Ryan Cordell</p>
+<p><em><a href="https://scholarslab.lib.virginia.edu/blog/what-is-dhmakes-hashtag//">What is #DHMakes?</a></em> by Amanda Wyatt Visconti, Quinn Dombrowski, and Claudia Berger</p>
+<p><strong>Journal Article</strong></p>
+<p><em><a href="https://electronicbookreview.com/publications/digital-creativity-as-critical-material-thinking-the-disruptive-potential-of-electronic-literature/">Digital Creativity as Critical Material Thinking: The Disruptive Potential of Electronic Literature</a></em> by Alex Saum-Pascual</p>
+<p><strong>Book Chapters</strong></p>
+<p><em><a href="https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa">The Care of Enchanted Things</a></em> by Kari Kraus</p>
+<p><strong>Journal Special Issues</strong></p>
+<p><em><a href="https://dhandlib.org/category/2025-special-issue/">Crafting Encounters with Humanities Data: A dh+lib Special Issue</a></em></p>
+<p><em><a href="https://dhandlib.org/category/2024-special-issue/">Making Research Tactile: Critical Making and Data Physicalization in Digital Humanities: A dh+lib Special Issue</a></em></p>
+<p><em><a href="https://enculturation.net/29">Enculturation: Issue 29: Critical Making and Executable Kits</a></em></p>
+<p><em><a href="https://journals.uc.edu/index.php/vl/issue/view/459">Visible Language: Vol. 49 No. 3 (2015): critical making: DESIGN and the DIGITAL HUMANITIES</a></em></p>
+<p><strong>Edited Collections</strong></p>
+<p><em><a href="https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</a></em></p>
+<p><em><a href="https://discovery.ucl.ac.uk/id/eprint/10166341/1/On-making-in-the-digital-humanities.pdf">On Making in the Digital Humanities</a></em></p>
+<p><strong>Monographs</strong></p>
+<p><em><a href="https://www.fulcrum.org/concern/monographs/zc77ss95p?locale=en">Critical Making in the Age of AI</a></em> by Emily Johnson and Anastasia Salter</p>
+<p><strong>Conversations</strong></p>
+<p><em><a href="https://journals.uvic.ca/index.php/ctheory/article/view/15123/6206">Conversations in Critical Making</a></em> by Garnet Hertz</p>
+<p><strong>Courses</strong></p>
+<p><em><a href="https://anastasiasalter.net/CriticalMaking2026/">Critical Making in Digital Humanities</a></em> by Anastasia Salter</p>
+
+</div>
+    <script  src="./script.js"></script>
+
+  </body>
+  
+</html>
