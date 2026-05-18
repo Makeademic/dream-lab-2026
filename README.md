@@ -95,12 +95,11 @@ This hands-on course offers an introduction to critical making (thinking through
 
 **Journal Article**
 
-*[Digital Creativity as Critical Material Thinking: The Disruptive Potential of Electronic Literature]((https://electronicbookreview.com/publications/digital-creativity-as-critical-material-thinking-the-disruptive-potential-of-electronic-literature/))* by Alex Saum-Pascual
+*[Digital Creativity as Critical Material Thinking: The Disruptive Potential of Electronic Literature](https://electronicbookreview.com/publications/digital-creativity-as-critical-material-thinking-the-disruptive-potential-of-electronic-literature/)* by Alex Saum-Pascual
 
 **Book Chapters**
 
-*[The Care of Enchanted Things]((https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa)
-)* by Kari Kraus
+*[The Care of Enchanted Things](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa)* by Kari Kraus
 
 **Journal Special Issues**
 
