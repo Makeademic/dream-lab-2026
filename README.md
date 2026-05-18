@@ -168,4 +168,5 @@ By Anastasia Salter
 # Acknowledgements
 
 Huge thanks to all of the wonderful people who helped make this Dream Lab course a success!
-*Erin Bailey, Taylor Caputo, Kadin Henningsen, Pamela Horn, Tex Kang, Christine Kemp, Jessica Peterson, Dot Porter, Kathryn Reuter, Stewart Varner*
+
+*Erin Bailey, Taylor Caputo, Kadin Henningsen, Pamela Horn, Tex Kang, Christine Kemp, Jessica Peterson, Dot Porter, Kathryn Reuter, Whitney Trettien Stewart Varner*
