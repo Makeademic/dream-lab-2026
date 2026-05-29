@@ -38,6 +38,10 @@ var marker4 = L.marker([39.95177441284185, -75.19265623414645]).addTo(map);
 
 marker4.bindPopup("<b>Common Press</b><br>Thursday 10:00 AM- 12:00 PM.").openPopup();
 
+var marker5 = L.marker([39.95090025308453, -75.19503272901319]).addTo(map);
+
+marker5.bindPopup("<b>Price Lab for Digital Humanities</b><br>Thursday 10:00 AM- 12:00 PM.").openPopup();
+
 var marker1 = L.marker([39.95274775646323, -75.19367790928924], {color: 'red'}).addTo(map);
 
 marker1.bindPopup("<b>Van-Pelt Library</b><br>Tuesday 9AM Check-In 6th floor<br>10:45AM Vitale II 623.").openPopup();
