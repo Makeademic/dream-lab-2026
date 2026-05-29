@@ -40,7 +40,7 @@ marker4.bindPopup("<b>Common Press</b><br>Thursday 10:00 AM- 12:00 PM.").openPop
 
 var marker5 = L.marker([39.95090025308453, -75.19503272901319]).addTo(map);
 
-marker5.bindPopup("<b>Price Lab for Digital Humanities</b><br>Thursday 10:00 AM- 12:00 PM.").openPopup();
+marker5.bindPopup("<b>Price Lab for Digital Humanities</b><br>Friday 10:00 AM- 12:00 PM.").openPopup();
 
 var marker1 = L.marker([39.95274775646323, -75.19367790928924], {color: 'red'}).addTo(map);
 
