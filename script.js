@@ -25,23 +25,90 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
+/*Venture Labs*/
 
-var marker2 = L.marker([39.955196536601655, -75.20214463783421]).addTo(map);
+var pinkIcon = L.icon({
+    iconUrl: 'https://makeademic.github.io/dream-lab-2026/laser-cutter-pink.png',
+    shadowUrl: 'https://makeademic.github.io/dream-lab-2026/laser-cutter-shadow.png',
 
-marker2.bindPopup("<b>Venture Labs</b><br>Tuesday 1:30-5:00 PM.").openPopup();
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [60, 60], // size of the shadow
+    iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+    shadowAnchor: [-20, 0],  // the same for the shadow
+    popupAnchor:  [20, -20] // point from which the popup should open relative to the iconAnchor
+});
 
-var marker3 = L.marker([39.950480909463145, -75.18928207020457]).addTo(map);
+var marker2 = L.marker([39.955196536601655, -75.20214463783421], {icon: pinkIcon}).addTo(map);
 
-marker3.bindPopup("<b>Education Commons</b><br>Wednesday 3:30-5:00 PM.").openPopup();
+marker2.bindPopup("<b>Venture Labs</b><br>Tuesday 1:30 - 5:00 PM.").openPopup();
 
-var marker4 = L.marker([39.95177441284185, -75.19265623414645]).addTo(map);
+/*Education Commons*/
 
-marker4.bindPopup("<b>Common Press</b><br>Thursday 10:00 AM- 12:00 PM.").openPopup();
+var blueIcon = L.icon({
+    iconUrl: 'https://makeademic.github.io/dream-lab-2026/3d-printer-blue.png',
+    shadowUrl: 'https://makeademic.github.io/dream-lab-2026/3d-printer-shadow.png',
 
-var marker5 = L.marker([39.95090025308453, -75.19503272901319]).addTo(map);
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [60, 60], // size of the shadow
+    iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+    shadowAnchor: [-20, 0],  // the same for the shadow
+    popupAnchor:  [20, -20] // point from which the popup should open relative to the iconAnchor
+});
 
-marker5.bindPopup("<b>Price Lab for Digital Humanities</b><br>Friday 10:00 AM- 12:00 PM.").openPopup();
 
-var marker1 = L.marker([39.95274775646323, -75.19367790928924], {color: 'red'}).addTo(map);
+var marker3 = L.marker([39.950480909463145, -75.18928207020457], {icon: blueIcon}).addTo(map);
+
+marker3.bindPopup("<b>Education Commons</b><br>Wednesday 3:30 - 5:00 PM.").openPopup();
+
+/*Common Press*/
+
+var cyanIcon = L.icon({
+    iconUrl: 'https://makeademic.github.io/dream-lab-2026/printing-press-cyan.png',
+    shadowUrl: 'https://makeademic.github.io/dream-lab-2026/printing-press-shadow.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [60, 60], // size of the shadow
+    iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+    shadowAnchor: [-20, 0],  // the same for the shadow
+    popupAnchor:  [20, -20] // point from which the popup should open relative to the iconAnchor
+});
+
+var marker4 = L.marker([39.95177441284185, -75.19265623414645], {icon: cyanIcon}).addTo(map);
+
+marker4.bindPopup("<b>Common Press</b><br>Thursday 10:00 AM - 5:00 PM.").openPopup();
+
+/*Price Lab*/
+
+var greenIcon = L.icon({
+    iconUrl: 'https://makeademic.github.io/dream-lab-2026/screen-printing-green.png',
+    shadowUrl: 'https://makeademic.github.io/dream-lab-2026/screen-printing-shadow.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [60, 60], // size of the shadow
+    iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+    shadowAnchor: [-20, 0],  // the same for the shadow
+    popupAnchor:  [20, -20] // point from which the popup should open relative to the iconAnchor
+});
+
+var marker5 = L.marker([39.95090025308453, -75.19503272901319], {icon: greenIcon}).addTo(map);
+
+marker5.bindPopup("<b>Price Lab for Digital Humanities</b><br>Friday 10:00 AM - 12:00 PM.").openPopup();
+
+/*Van-Pelt*/
+
+//put marker you want showing up first last in your code
+
+var orangeIcon = L.icon({
+    iconUrl: 'https://makeademic.github.io/dream-lab-2026/3d-scanner-orange.png',
+    shadowUrl: 'https://makeademic.github.io/dream-lab-2026/3d-scanner-shadow.png',
+
+    iconSize:     [50, 50], // size of the icon
+    shadowSize:   [60, 60], // size of the shadow
+    iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+    shadowAnchor: [-20, 0],  // the same for the shadow
+    popupAnchor:  [20, -20] // point from which the popup should open relative to the iconAnchor
+});
+
+var marker1 = L.marker([39.95274775646323, -75.19367790928924], {icon: orangeIcon}).addTo(map);
 
 marker1.bindPopup("<b>Van-Pelt Library</b><br>Tuesday 9AM Check-In 6th floor<br>10:45AM Vitale II 623.").openPopup();
