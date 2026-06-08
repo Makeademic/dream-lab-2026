@@ -40,7 +40,7 @@ var pinkIcon = L.icon({
 
 var marker2 = L.marker([39.955196536601655, -75.20214463783421], {icon: pinkIcon}).addTo(map);
 
-marker2.bindPopup("<b>Venture Labs</b><br>Tuesday 1:30 - 5:00 PM.").openPopup();
+marker2.bindPopup("<em>Laser Cutting</em><br><b>Venture Labs</b><br>Tuesday 1:30 - 5:00 PM.").openPopup();
 
 /*Education Commons*/
 
@@ -58,7 +58,7 @@ var blueIcon = L.icon({
 
 var marker3 = L.marker([39.950480909463145, -75.18928207020457], {icon: blueIcon}).addTo(map);
 
-marker3.bindPopup("<b>Education Commons</b><br>Wednesday 3:30 - 5:00 PM.").openPopup();
+marker3.bindPopup("<em>3D Printing</em><br><b>Education Commons</b><br>Wednesday 3:30 - 5:00 PM.").openPopup();
 
 /*Common Press*/
 
@@ -75,7 +75,7 @@ var cyanIcon = L.icon({
 
 var marker4 = L.marker([39.95177441284185, -75.19265623414645], {icon: cyanIcon}).addTo(map);
 
-marker4.bindPopup("<b>Common Press</b><br>Thursday 10:00 AM - 5:00 PM.").openPopup();
+marker4.bindPopup("<em>Letterpress Printing</em><br><b>Common Press</b><br>Thursday 10:00 AM - 5:00 PM.").openPopup();
 
 /*Price Lab*/
 
@@ -92,7 +92,7 @@ var greenIcon = L.icon({
 
 var marker5 = L.marker([39.95090025308453, -75.19503272901319], {icon: greenIcon}).addTo(map);
 
-marker5.bindPopup("<b>Price Lab for Digital Humanities</b><br>Friday 10:00 AM - 12:00 PM.").openPopup();
+marker5.bindPopup("<em>Screen Printing</em><br><b>Price Lab for Digital Humanities</b><br>Friday 10:00 AM - 12:00 PM.").openPopup();
 
 /*Van-Pelt*/
 
@@ -111,4 +111,4 @@ var orangeIcon = L.icon({
 
 var marker1 = L.marker([39.95274775646323, -75.19367790928924], {icon: orangeIcon}).addTo(map);
 
-marker1.bindPopup("<b>Van-Pelt Library</b><br>Tuesday 9AM Check-In 6th floor<br>10:45AM Vitale II 623.").openPopup();
+marker1.bindPopup("<em>3D Scanning</em><br><b>Van-Pelt Library</b><br>Tuesday 9AM Check-In 6th floor<br>10:45AM Vitale II 623.").openPopup();
