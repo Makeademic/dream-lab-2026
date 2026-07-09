@@ -10,12 +10,11 @@ David Staley posed the question: “Now that the maker movement has come to the 
 
 While some traditional humanities departments may still hail the lone genius, digital humanities rejects this myth in favor of highly collaborative, interdisciplinary project teams. What follows will by no means be a comprehensive overview, but rather a sampler of some noteworthy DH projects incorporating material maker technologies like physical computing and digital fabrication to serve as inspiration. 
 
-…
+The edited collection, *Making Things and Drawing Boundaries*, edited by Jentery Sayers, contains excellent examples of collaborative critical making research that enhances access to cultural heritage and reverse-engineers historical artifacts. For example, in the chapter “Thinking as Handwork: Critical Making with Humanistic Concerns,” Resch et al. discuss how 3D humanistic scholarship is a process requiring handwork, “from capture (digitization) to cleanup and design (digital artisanship) to printing (rematerialization) to finishing (material artisanship)” (Resch et al. 154) and outline some of their projects, including 3D-printed “snapshots” of gestural crafting data, tactile reproductions of a museum’s collection, and “a dynamic, collective, participatory exhibit”. (ibid 155) They describe their team as “composed of members with backgrounds from philosophy of science and Chinese history to electrical engineering and systems administration“ (ibid 151), and it is this interdisciplinarity that provides a richness to their humanistic explorations. Likewise, in the chapter "Doing History by Reverse Engineering Electronic Devices,” Boeva et al. introduce their concept of “humanistic fabrication” as a way of “stag[ing] situations … engag[ing] with design, intention, material constraint, and the ‘adjacent possible’” (Boeva et al. 163-4). They discuss not only how they collaborate as a research team, but also how they share their research with a wider public through collaborative-hands on workshops and public online repositories. Their three case studies, recreating a mind-reading stage magic illusion, an analog electronic musical instrument, and an analog electronic computer, help them “reimagine portions of the historical worlds they occupied” (ibid 164). These “provotypes” are so valuable in digital humanities because they intervene in histories of scarcely documented and quickly replaced technologies. So much of the great work in digital humanities is actually tied to how it better helps us understand the analog.
 
--Making Things and Drawing Boundaries
--Hyperrhiz (Kits for Cultural History, MashBOT, 
--3dhotbed
--data physicalization
+The Hyperrhiz special issue on Kits, Plans, Schematics also features collaborative digital humanities projects that prototype the past and create data sculptures. In Kits for Cultural History, Jentery Sayers and the Maker Lab in the Humanities at the University of Victoria introduce their “Fluxkits for scholarly communication,” “prototyping early wearable technologies [like] electro-mobile jewelry” (Sayers 2015). Because there are no extant artifacts, only images, the team conceptualized and fabricated a skull stick pin and speculated on how to incorporate electronic components. In Manifest Data, the team captured dropped cookie crumbs and “translate[d] that data into point-cloud coordinates for visual modeling software” for 3D printing (Duke University S-1 Lab 2015). This project not only physicalizes data that seemed incorporeal, but also personalizes data that is being aggregated by corporations. Both teams include designers and programmers that work together to create representations that help us better understand history and the present.
+
+In the inaugural issue of Startwords, a team of developers, designers, and professors introduce how data physicalizations can be used in humanistic inquiry, using a variety of materials like paper, textiles, and 3D printed plastics to represent different forms of data. 
 
 # Educating and Empowering Makers
 
@@ -119,17 +118,25 @@ As I stated from the beginning, my aim is to empower people to become makers. If
 
 # References
 
+Boeva, Yana, Devon Elliott, Edward Jones-Imhotep, Shezan Muhammedi, and William J. Turkel. 2017. "Doing History by Reverse Engineering Electronic Devices." In *Making Things and Drawing Boundaries*, edited by Jentery Sayers. University of Minnesota Press. [https://doi.org/10.5749/9781452963778](https://doi.org/10.5749/9781452963778)
+
 Burek, Amy, Emily Alden Foster, Sarah Fox, and Daniela K. Rosner. 2017. "Feminist Hackerspaces: Hacking Culture, Not Devices (the zine!)." In *Making Things and Drawing Boundaries*, edited by Jentery Sayers. University of Minnesota Press. [https://doi.org/10.5749/9781452963778](https://doi.org/10.5749/9781452963778)
 
 Clapp, Edward P., Jessica Ross, Jennifer O. Ryan, and Shari Tishman. 2016. *Maker-Centered Learning: Empowering Young People to Shape Their Worlds.* Jossey-Bass.
+
+Duke University Speculative Sensation (S-1) Lab. 2015. "Manifest Data: A Kit to Create Personal Digital Data-Based Sculptures." *Hyperrhiz* 13. [https://doi.org/10.20415/hyp/013.s03](https://doi.org/10.20415/hyp/013.s03)
 
 Hancock, Charity, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin. 2013. "Bibliocircuitry and the Design of the Alien Everyday." *Textual Cultures* 8 (1): 72-100. [https://doi.org/10.14434/TCv8i1.5051](https://doi.org/10.14434/TCv8i1.5051)
 
 Kraus, Kari. 2019. "The Care of Enchanted Things." In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press. [https://doi.org/10.5749/9781452963785](https://doi.org/10.5749/9781452963785)
 
-Melo, Marijel (Maggie), and Laura March. 2023. “By the Book: A Pedagogy of Authentic Learning Experiences for Emerging Makerspace Information Professionals” *Journal of Education for Library and Information Science* 64 (2): 142-158. [https://doi.org/10.3138/jelis-2020-0046](https://doi.org/10.3138/jelis-2020-0046)
+Melo, Marijel (Maggie), and Laura March. 2023. “By the Book: A Pedagogy of Authentic Learning Experiences for Emerging Makerspace Information Professionals.” *Journal of Education for Library and Information Science* 64 (2): 142-158. [https://doi.org/10.3138/jelis-2020-0046](https://doi.org/10.3138/jelis-2020-0046)
 
 Ratto, Matt. 2011. “Critical Making: Conceptual and Material Studies in Technology and Social Life.” *The Information Society* 27 (4): 252–60. [doi:10.1080/01972243.2011.583819](doi:10.1080/01972243.2011.583819)
+
+Resch, Gabby, Dan Southwick, Isaac Record, and Matt Ratto. 2017. "Thinking as Handwork: Critical Making with Humanistic Concerns/" In *Making Things and Drawing Boundaries*, edited by Jentery Sayers. University of Minnesota Press. [https://doi.org/10.5749/9781452963778](https://doi.org/10.5749/9781452963778)
+
+Sayers, Jentery, and the Maker Lab in the Humanities at the University of Victoria. 2015. "Kits for Cultural History." *Hyperrhiz* 13. [https://doi.org/10.20415/hyp/013.w02](https://doi.org/10.20415/hyp/013.w02)
 
 Spiro, Lisa. 2012. "'This Is Why We Fight': Defining the Values of the Digital Humanities." In *Debates in the Digital Humanities*, edited by Matthew K. Gold. University of Minnesota Press. [https://doi.org/10.5749/9781452963754](https://doi.org/10.5749/9781452963754)
 
